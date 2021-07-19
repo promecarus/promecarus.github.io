@@ -10,3 +10,7 @@
 section {
     padding-top: 6rem;
 }
+
+#viewInput {
+    opacity: 0;
+}
