@@ -1,0 +1,14 @@
+<svg width="1000.0000000000001" height="1000.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <title>Logo</title>
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="none" cx="499.99999" cy="500.00001" id="svg_3" rx="400" ry="400" stroke="#000" stroke-width="50"/>
+  <line fill="none" stroke-width="50" x1="424.99999" y1="700" x2="574.99999" y2="700" id="svg_15" stroke="#000"/>
+  <line fill="none" stroke-width="50" x1="500.00002" y1="300" x2="500.00002" y2="700" id="svg_8" stroke="#000"/>
+  <ellipse fill="#ffffff" stroke-width="50" cx="500" cy="499.99999" id="svg_9" rx="100" ry="100" stroke="#000"/>
+  <line fill="none" stroke-width="50" x1="425.00001" y1="300" x2="575.00001" y2="300" id="svg_16" stroke="#000"/>
+  <line fill="none" stroke-width="50" x1="100" y1="500" x2="300" y2="500" id="svg_6" stroke="#000"/>
+  <line fill="none" stroke-width="50" x1="700" y1="500" x2="900" y2="500" id="svg_20" stroke="#000"/>
+ </g>
+</svg>
