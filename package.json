@@ -1,0 +1,26 @@
+{
+  "name": "promecarus.github.io",
+  "version": "1.0.0",
+  "description": "Website for promecarus\r baris ke-3\r baris ke-4\r baris ke-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promecarus/promecarus.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promecarus/promecarus.github.io/issues"
+  },
+  "homepage": "https://github.com/promecarus/promecarus.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  }
+}

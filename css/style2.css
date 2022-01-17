@@ -1,9 +1,14 @@
 #waveWhite {
-    fill: black;
-    color: black;
+  fill: black;
+  color: black;
 }
 
 .waveWhite {
-    fill: black;
-    color: black;
+  fill: black;
+  color: black;
+}
+
+h1 {
+  color: black;
+  font-family: "Open Sans", sans-serif;
 }
