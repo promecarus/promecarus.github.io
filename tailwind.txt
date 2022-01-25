@@ -1,0 +1,11 @@
+instalasi
+https://tailwindcss.com/docs/installation
+
+jalanin
+npm run dev
+
+berentiin
+CTRL + C
+
+dokumentasi
+https://tailwindcss.com/docs
